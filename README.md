@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="[https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg](https://www.canva.com/design/DAFlpFnoE1c/watch)"/>
 
 <!--
 **pan2dora/pan2dora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
