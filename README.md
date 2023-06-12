@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/4e/02/98/4e029866bc004eee9c4d7326aa36d50b.gif">
+<img src="https://i.pinimg.com/originals/27/67/1b/27671b35ce23aaaf355727ebdf77b8ce.gif" alt="Logo of animated Pandora with typewriter text welcome" align="center"  >
 
 <!--
 **pan2dora/pan2dora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
