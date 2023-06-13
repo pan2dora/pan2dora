@@ -25,8 +25,12 @@
 
 
 </br>
+<p text-align="center">
+  
+### Hi, I'm Pandora, a performance artist turned Software Engineer in training based in the Greater Boston Area.
+</p>
 
-### Hi I'm Pandora an performance artist turned Software Engineer in training based out of the Greater Boston Area. 
+
 ## Performance Art
 
 In my earlier years, I found immense joy and creative expression through performance art. Whether it was dance, theater, or music, I thrived in the world of imagination and storytelling. The ability to captivate audiences and evoke emotions fueled my passion for the arts.
