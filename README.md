@@ -41,7 +41,7 @@ Beyond my professional pursuits, I find inspiration and escape in the world of a
 
 If you're interested in exploring the intersection of art and technology or if you have recommendations for anime, music, or food, I'd love to connect with you. Let's share our journeys, ideas, and creative endeavors as we embark on this exciting path together.
 
-## What I'm working on:
+## What I'm working on
 <table>
   <tr>
     <th>Project:</th>
@@ -54,8 +54,10 @@ If you're interested in exploring the intersection of art and technology or if y
      <td>test</td>
   </tr>
   <table>
+    
+## What I'm currently learning
 
-
+    
 <!-- 
 
 **pan2dora/pan2dora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
