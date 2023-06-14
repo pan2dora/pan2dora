@@ -41,7 +41,19 @@ Beyond my professional pursuits, I find inspiration and escape in the world of a
 
 If you're interested in exploring the intersection of art and technology or if you have recommendations for anime, music, or food, I'd love to connect with you. Let's share our journeys, ideas, and creative endeavors as we embark on this exciting path together.
 
-
+## What I'm working on:
+<table>
+  <tr>
+    <th>Project:</th>
+    <th>Description:</th>
+    <th>Role:</th>
+  </tr>
+  <tr>
+    <td>test</td>
+    <td>test</td>
+     <td>test</td>
+  </tr>
+  <table>
 
 
 <!-- 
