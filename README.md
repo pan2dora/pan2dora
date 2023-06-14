@@ -56,7 +56,10 @@ If you're interested in exploring the intersection of art and technology or if y
   <table>
     
 ## What I'm currently learning
-
+<ul>
+  <li>Data Structures & Algorithims</li>
+  <li>Advanced React</li>
+</ul>
     
 <!-- 
 
