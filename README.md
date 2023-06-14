@@ -1,18 +1,15 @@
 
 <img src="https://i.pinimg.com/originals/27/67/1b/27671b35ce23aaaf355727ebdf77b8ce.gif" alt="Logo of animated Pandora with typewriter text welcome" align="center" >
 <br/>
+
+
 <table align="center">
+  
   <tr>
-    <td>
-      <a href="https://twitter.com/pan2dora">
-        <img alt="Pandora| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-      </a>
-      <a href="https://www.instagram.com/pan2dora/">
-        <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-      </a>
-    </td>
-    <td>
+    <th>
       <strong>Languages and Tools:</strong>
+    </th>
+    <td>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -20,7 +17,7 @@
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
       <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
     </td>
-  </tr>
+    </tr>
 </table>
 
 
